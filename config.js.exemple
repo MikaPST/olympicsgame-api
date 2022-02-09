@@ -1,0 +1,5 @@
+module.exports = {
+    database: {
+        host: "mongodb+srv://<utilisateur>:<mot_de_passe>@<name_bdd>.<id_bdd>.mongodb.net/test?retryWrites=true&w=majority"
+    }
+}
